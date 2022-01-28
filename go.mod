@@ -1,4 +1,4 @@
-module myquote
+module github.com/DomNook/myquote
 
 go 1.17
 
